@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'predictions',
     'stocks',
     'watchlist',
+    'rest_framework_simplejwt.token_blacklist'
 ]
 
 REST_FRAMEWORK = {
